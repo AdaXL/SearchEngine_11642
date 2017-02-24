@@ -1,0 +1,10 @@
+6:#OR(kcs.url kcs.body kcs.keywords)
+71:#AND(#OR(living.body living.keywords) in india.keywords)
+79:voyager
+84:#OR(#NEAR/2000(continental plates) #NEAR/10(continental plates).title #AND(continental.keywords plates.keywords))
+88:#AND(#OR(forearm.body forearm.keywords) #OR(pain.body pain.keywords))
+96:#AND(rice.body rice.title)
+104:#AND(#OR(#NEAR/10(indiana child).title #NEAR/100(indiana child).body #NEAR/10(indiana child).keywords) #OR(support.body support.title support.keywords support.url))
+182:#AND(#OR(#NEAR/100(quit smoking).title #AND(quit.body smoking.body) #NEAR/100(quit smoking).keywords))
+194:#AND(designer dog breeds)
+196:#NEAR/1(sore throat) #NEAR/1(sore.title throat.title) #NEAR/1(sore.keywords throat.keywords)
