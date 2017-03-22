@@ -14,4 +14,4 @@ Course page: [HW2: Ranked Retrieval and Structured Queries](http://boston.lti.cs
 Course page: [HW3: Query Expansion](http://boston.lti.cs.cmu.edu/classes/11-642/HW/HW3/)
 
 # Note
-Dependencies to run this program is located at Branch `master`.
+Dependencies to run this program are located at Branch `master`.
