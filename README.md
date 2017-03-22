@@ -14,3 +14,6 @@ Course page: [HW1: Boolean Retrieval](http://boston.lti.cs.cmu.edu/classes/11-64
 [Branch: HW3](https://github.com/PatwinchIR/SearchEngine_11642/tree/HW3)
 
 Course page: [HW3: Query Expansion](http://boston.lti.cs.cmu.edu/classes/11-642/HW/HW3/)
+
+# Note
+Dependencies to run this program are located at Branch `master`.
